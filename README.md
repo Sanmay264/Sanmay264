@@ -1,6 +1,8 @@
 <h1 align="center">👩‍💻 Sanmay Kulkarni 👩‍💻</h1>
 <h3 align="center">A Passionate Programmer from WCE, Sangli</h3>
 
+- About Me- **I am a First Year Electronics Engineering Student at Walchand College of Engineering, Sangli. I am currently learning C,C++.**
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/sanmay-kulkarni-2b0a20207" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sanmay-kulkarni-2b0a20207" height="30" width="40" /></a>
