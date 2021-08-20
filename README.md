@@ -9,7 +9,7 @@
 <h3>🎲INTERESTS</h3><hr>
 <ul>
   <li>Cricket</li>
-  <li>Trekking♂️</li>
+  <li>Trekking</li>
   <li>Watching Web Series</li>
   <li>Playing Video Games</li>
   <li>Reading Books</li>
