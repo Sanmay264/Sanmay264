@@ -1,7 +1,7 @@
 <h1 align="center">👩‍💻 Sanmay Kulkarni 👩‍💻</h1>
 <h3 align="center">A Passionate Programmer from WCE, Sangli</h3>
 
-- About Me- **I am a First Year Electronics Engineering Student at Walchand College of Engineering, Sangli. I am currently learning C,C++.**
+-**I am a First Year Electronics Engineering Student at Walchand College of Engineering, Sangli. I am currently learning C,C++.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
