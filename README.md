@@ -8,11 +8,11 @@
 
 <h3>🎲INTERESTS</h3><hr>
 <ul>
-  <li>Badminton 🏸</li>
-  <li>Cycling 🚴🏽‍♂️</li>
-  <li>Economics 💰</li>
-  <li>Geography 🗺️</li>
-  <li>Cartoon Sketching 🎨</li>
+  <li>Cricket</li>
+  <li>Trekking♂️</li>
+  <li>Watching Web Series</li>
+  <li>Playing Video Games</li>
+  <li>Reading Books</li>
 </ul>
 
 <br>
