@@ -3,6 +3,20 @@
 
 **I am a First Year Electronics Engineering Student at Walchand College of Engineering, Sangli. I am currently learning C,C++.**
 
+
+<br>
+
+<h3>🎲INTERESTS</h3><hr>
+<ul>
+  <li>Badminton 🏸</li>
+  <li>Cycling 🚴🏽‍♂️</li>
+  <li>Economics 💰</li>
+  <li>Geography 🗺️</li>
+  <li>Cartoon Sketching 🎨</li>
+</ul>
+
+<br>
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/sanmay-kulkarni-2b0a20207" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sanmay-kulkarni-2b0a20207" height="30" width="40" /></a>
