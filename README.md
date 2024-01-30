@@ -1,5 +1,5 @@
 <h1 align="center">👩‍💻 Hii, I am Sanmay Girish Kulkarni 👩‍💻</h1>
-<h3 align="center">THIRD YEAR  UNDERGRADUATE,ELECTRONICS ENGINEERING STUDENT</h3>
+<h3 align="center">FINAL YEAR UNDERGRADUATE,ELECTRONICS ENGINEERING STUDENT</h3>
 
 **I am a Final Year Electronics Engineering Student from Walchand College of Engineering, Sangli...**
 <br>
